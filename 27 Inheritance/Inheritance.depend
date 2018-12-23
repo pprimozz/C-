@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1322753331 source:e:\šola\vaje c++\inheritance\mother.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322753473 e:\šola\vaje c++\inheritance\mother.h
+
+1322752883 source:e:\šola\vaje c++\inheritance\daughter.cpp
+	"Daughter.h"
+	<iostream>
+	"MOther.h"
+
+1322753950 e:\šola\vaje c++\inheritance\daughter.h
+
+1322753913 source:e:\šola\vaje c++\inheritance\main.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322753331 source:e:\šola\vaje c++\27 inheritance\mother.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322753473 e:\šola\vaje c++\27 inheritance\mother.h
+
+1322757697 e:\šola\vaje c++\27 inheritance\daughter.h
+
+1322753913 source:e:\šola\vaje c++\27 inheritance\main.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322752883 source:e:\šola\vaje c++\27 inheritance\daughter.cpp
+	"Daughter.h"
+	<iostream>
+	"MOther.h"
+
+1322753331 source:d:\Šola\vaje c++\27 inheritance\mother.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322753473 d:\Šola\vaje c++\27 inheritance\mother.h
+
+1323869112 d:\Šola\vaje c++\27 inheritance\daughter.h
+
+1323868886 source:d:\Šola\vaje c++\27 inheritance\main.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322752883 source:d:\Šola\vaje c++\27 inheritance\daughter.cpp
+	"Daughter.h"
+	<iostream>
+	"MOther.h"
+
+1322752883 source:f:\programiranje\c++\27 inheritance\daughter.cpp
+	"Daughter.h"
+	<iostream>
+	"MOther.h"
+
+1384776603 f:\programiranje\c++\27 inheritance\daughter.h
+
+1384776637 f:\programiranje\c++\27 inheritance\mother.h
+
+1323868886 source:f:\programiranje\c++\27 inheritance\main.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+
+1322753331 source:f:\programiranje\c++\27 inheritance\mother.cpp
+	<iostream>
+	"MOther.h"
+	"Daughter.h"
+

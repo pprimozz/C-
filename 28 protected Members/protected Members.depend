@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1322754656 source:e:\šola\vaje c++\protected members\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754623 e:\šola\vaje c++\protected members\mother.h
+
+1322754622 e:\šola\vaje c++\protected members\daughter.h
+
+1322754623 source:e:\šola\vaje c++\protected members\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754656 source:e:\šola\vaje c++\28 protected members\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754623 e:\šola\vaje c++\28 protected members\mother.h
+
+1322754622 e:\šola\vaje c++\28 protected members\daughter.h
+
+1322754623 source:e:\šola\vaje c++\28 protected members\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754782 source:e:\šola\vaje c++\28 protected members\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754782 source:f:\programiranje\c++\28 protected members\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754623 f:\programiranje\c++\28 protected members\mother.h
+
+1322754622 f:\programiranje\c++\28 protected members\daughter.h
+
+1322754623 source:f:\programiranje\c++\28 protected members\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1322754656 source:f:\programiranje\c++\28 protected members\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+

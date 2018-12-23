@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1322664035 source:e:\šola\vaje c++\arrow member selection operator\main.cpp
+	<iostream>
+	"Sally.h"
+
+1322664081 e:\šola\vaje c++\arrow member selection operator\sally.h
+
+1322663570 source:e:\šola\vaje c++\arrow member selection operator\sally.cpp
+	"Sally.h"
+	<iostream>
+
+1322664035 source:e:\šola\vaje c++\19 arrow member selection operator\main.cpp
+	<iostream>
+	"Sally.h"
+
+1322664081 e:\šola\vaje c++\19 arrow member selection operator\sally.h
+
+1322663570 source:e:\šola\vaje c++\19 arrow member selection operator\sally.cpp
+	"Sally.h"
+	<iostream>
+

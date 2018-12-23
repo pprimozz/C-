@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1323795669 source:d:\šola\vaje c++\whileee\main.cpp
+	<iostream>
+	<cmath>
+
+1323804249 source:d:\Šola\vaje c++\whileee\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

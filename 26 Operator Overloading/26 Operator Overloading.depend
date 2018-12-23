@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1322752199 source:e:\šola\vaje c++\26 operator overloading\main.cpp
+	<iostream>
+	"Sally.h"
+
+1322752149 e:\šola\vaje c++\26 operator overloading\sally.h
+
+1322752283 source:e:\šola\vaje c++\26 operator overloading\sally.cpp
+	"Sally.h"
+	<iostream>
+

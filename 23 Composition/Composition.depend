@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1322669762 source:e:\šola\vaje c++\composition\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+
+1322669599 e:\šola\vaje c++\composition\people.h
+	<string>
+	"Birthday.h"
+	<iostream>
+
+1322669599 e:\šola\vaje c++\composition\birthday.h
+
+1322669803 source:e:\šola\vaje c++\composition\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1322669599 source:e:\šola\vaje c++\composition\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1322669803 source:f:\programiranje\c++\23 composition\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1322669599 f:\programiranje\c++\23 composition\birthday.h
+
+1322669599 f:\programiranje\c++\23 composition\people.h
+	<string>
+	"Birthday.h"
+	<iostream>
+
+1322669829 source:f:\programiranje\c++\23 composition\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+
+1384985165 source:f:\programiranje\c++\23 composition\birthday.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+

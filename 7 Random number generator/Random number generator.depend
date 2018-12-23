@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1322591960 source:e:\šola\vaje c++\random number generator\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

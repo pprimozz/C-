@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1322671939 source:e:\šola\vaje c++\this\main.cpp
+	<iostream>
+	"Hannah.h"
+
+1322672085 e:\šola\vaje c++\this\hannah.h
+
+1322672075 source:e:\šola\vaje c++\this\hannah.cpp
+	<iostream>
+	"Hannah.h"
+
+1322671939 source:d:\Šola\vaje c++\25 this\main.cpp
+	<iostream>
+	"Hannah.h"
+
+1322672085 d:\Šola\vaje c++\25 this\hannah.h
+
+1322672075 source:d:\Šola\vaje c++\25 this\hannah.cpp
+	<iostream>
+	"Hannah.h"
+
